@@ -45,6 +45,7 @@
   <img src="https://img.shields.io/badge/MS_Office-EB3C00?style=for-the-badge&logo=microsoft-office&logoColor=white">
 </div>
 
+<br>
 
 These skills give me a solid foundation for roles in quant finance, data science, and machine learning. Python, C++, and R allow me to implement and optimize models efficiently, while tools like Scikit-learn, TensorFlow, and XGBoost support robust predictive modeling. My experience with NumPy, Pandas, and statistical libraries ensures strong data handling and analysis capabilities. Overall, I can build end-to-end data-driven solutions from modelling to interpretation and reporting.
 
