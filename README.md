@@ -23,10 +23,14 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </div>
 
-
-
-
-- Machine Learning
+### Machine Learning, Deep Learning & Statistics:
+<div>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost">
+  <img src="https://img.shields.io/badge/Statsmodels-1E4B6D?style=for-the-badge&logo=python&logoColor=white" alt="Statsmodels">
+  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"/>
+</div>
 
 <!--
 **UrielleMohou/UrielleMohou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
