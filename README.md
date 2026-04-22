@@ -54,7 +54,6 @@ These skills give me a solid foundation for roles in quant finance, data science
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/urielle-mohou-452634265/?locale=fr)
 [![Berkeley Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:urielle.mohou-mogou@student-cs.fr)
 
-<br>
 
 Feel free to reach out for any collaboration or professional opportunity. I am currently seeking an international internship between May 2027 and November 2027 within quantitative finance, data-driven industries, or technology-focused organizations. I am eager to apply my analytical and problem-solving skills to real-world challenges.
 
