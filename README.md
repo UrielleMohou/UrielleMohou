@@ -1,4 +1,4 @@
-# <h1 align="center">👋Hi, I am Urielle MOHOU </h1>
+<h1 align="center">👋Hi, I am Urielle MOHOU </h1>
 
 <p align="center"> ### Engineering Student @ Centrale Nantes | Master in Applied Mathematics and Data Science @ CentraleSupélec
 
