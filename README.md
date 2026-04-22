@@ -13,7 +13,7 @@
 ## <h2 align="center"> 🛠️ Skills </h2>
 ### <p align="center"> Programming Languages </p>
 
-<div style="text-align:center;">
+<div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/Python-blue" width="120"/>
   <img src="https://img.shields.io/badge/R-blue" width="120"/>
   <img src="https://img.shields.io/badge/C++-orange" width="120"/>
