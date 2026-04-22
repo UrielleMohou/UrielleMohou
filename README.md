@@ -2,11 +2,13 @@
   
 # <h1>👋Hi, I am Urielle MOHOU </h1>
 
-### Engineering Student @ Centrale Nantes | Master in Applied Mathematics and Data Science @ CentraleSupélec
+### <p align="center"> Engineering Student @ Centrale Nantes | Master in Applied Mathematics and Data Science @ CentraleSupélec </p>
 
+<p align="center">
 <h4>
   Passionate about Quantitative Finance, Data Science, and Machine Learning
 </h4>
+</p>
 
 
 <h2> About Me </h2>
