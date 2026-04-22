@@ -1,3 +1,5 @@
+<div align="center">
+  
 # <h1 align="center">👋Hi, I am Urielle MOHOU </h1>
 
 ### <p align="center"> Engineering Student @ Centrale Nantes | Master in Applied Mathematics and Data Science @ CentraleSupélec </p>
@@ -12,13 +14,16 @@
 
 <h2 align="center"> 🛠️ Skills </h2>
 
-### <p align="center"> Programming Languages </p>
+### Programming Languages 
+
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+</div>
 
 
-  ![Python](https://img.shields.io/badge/Python-blue)
-  ![R](https://img.shields.io/badge/R-blue)
-  ![C++](https://img.shields.io/badge/C++-blue)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
 
 - Machine Learning
