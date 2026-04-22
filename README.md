@@ -1,4 +1,4 @@
-# Urielle MOHOU
+# 👋Urielle MOHOU
 
 ### Engineering Student @ Centrale Nantes | Master in Applied Mathematics and Data Science @ CentraleSupélec
 Passionate about Quantitative Finance, Data Science, and Machine Learning
