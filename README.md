@@ -7,15 +7,15 @@ Passionate about Quantitative Finance, Data Science, and Machine Learning
 ## <h2 align="center"> About Me </h2>
 Passionate about Quantitative Finance, Data Science, and Machine Learning
 
-## 🛠️ Skills
+<p align="center"> 🛠️ Skills </p>
 ### Programming Languages
 
-<p align="center">
+
 ![Python](https://img.shields.io/badge/Python-blue)
 ![R](https://img.shields.io/badge/R-blue)
 ![C++](https://img.shields.io/badge/C++-orange)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-</p>
+
 
 - Machine Learning
 
