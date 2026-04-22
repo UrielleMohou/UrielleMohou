@@ -11,8 +11,7 @@
 <p align="center"> I’m a final-year engineering student at CentraleSupélec, specializing in applied mathematics, data science, and machine learning. I’m interested in quantitative finance and computer science, particularly in data-driven modeling and its applications. I try to approach each project with seriousness, curiosity, and a willingness to learn quickly.</p>
 
 ## <h2 align="center"> 🛠️ Skills </h2>
-### Programming Languages
-
+### <p align="center"> Programming Languages </p>
 
 ![Python](https://img.shields.io/badge/Python-blue)
 ![R](https://img.shields.io/badge/R-blue)
