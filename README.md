@@ -49,6 +49,16 @@
 
 These skills give me a solid foundation for roles in quant finance, data science, and machine learning. Python, C++, and R allow me to implement and optimize models efficiently, while tools like Scikit-learn, TensorFlow, and XGBoost support robust predictive modeling. My experience with NumPy, Pandas, and statistical libraries ensures strong data handling and analysis capabilities. Overall, I can build end-to-end data-driven solutions from modelling to interpretation and reporting.
 
+## Let's Connect 📬
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/urielle-mohou-452634265/?locale=fr)
+[![Berkeley Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:urielle.mohou-mogou@student-cs.fr)
+
+<br>
+
+Feel free to reach out for any collaboration or professional opportunity. I am currently seeking an international internship between May 2027 and November 2027 within quantitative finance, data-driven industries, or technology-focused organizations. I am eager to apply my analytical and problem-solving skills to real-world challenges.
+
+I would be glad to connect and explore potential opportunities together. 🤝
 <!--
 **UrielleMohou/UrielleMohou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
