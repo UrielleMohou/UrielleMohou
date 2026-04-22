@@ -2,7 +2,9 @@
 
 ### <p align="center"> Engineering Student @ Centrale Nantes | Master in Applied Mathematics and Data Science @ CentraleSupélec </p>
 
-<p align="center"> Passionate about Quantitative Finance, Data Science, and Machine Learning
+<p align="center" style="font-size: 20px;">
+  Passionate about Quantitative Finance, Data Science, and Machine Learning
+</p>
 
 
 <h2 align="center"> About Me </h2>
