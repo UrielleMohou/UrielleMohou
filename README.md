@@ -32,6 +32,15 @@
   <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"/>
 </div>
 
+### Data Analysis/Manipulation:
+<div>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Polars-5A00FF?style=for-the-badge&logo=polars&logoColor=white" alt="Polars">
+</div>
+
 <!--
 **UrielleMohou/UrielleMohou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
