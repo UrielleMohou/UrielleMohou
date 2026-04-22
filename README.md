@@ -6,9 +6,9 @@
   Passionate about Quantitative Finance, Data Science, and Machine Learning
 </p>
 
-<h3 align="center">
+<h4 align="center">
   Passionate about Quantitative Finance, Data Science, and Machine Learning
-</h3>
+</h4>
 
 
 <h2 align="center"> About Me </h2>
