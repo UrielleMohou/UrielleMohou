@@ -14,12 +14,11 @@
 
 ### <p align="center"> Programming Languages </p>
 
-<p align="center">
+
   ![Python](https://img.shields.io/badge/Python-blue)
   ![R](https://img.shields.io/badge/R-blue)
   ![C++](https://img.shields.io/badge/C++-blue)
   ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-</p>
 
 
 - Machine Learning
