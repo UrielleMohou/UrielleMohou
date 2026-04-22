@@ -13,10 +13,12 @@
 ## <h2 align="center"> 🛠️ Skills </h2>
 ### <p align="center"> Programming Languages </p>
 
-![Python](https://img.shields.io/badge/Python-blue)
-![R](https://img.shields.io/badge/R-blue)
-![C++](https://img.shields.io/badge/C++-orange)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+<div style="text-align:center;">
+  <img src="https://img.shields.io/badge/Python-blue" width="120"/>
+  <img src="https://img.shields.io/badge/R-blue" width="120"/>
+  <img src="https://img.shields.io/badge/C++-orange" width="120"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow" width="120"/>
+</div>
 
 
 - Machine Learning
