@@ -40,6 +40,12 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
 </div>
 
+### Productivity & Office Tools:
+<div>
+  <img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/MS_Office-EB3C00?style=for-the-badge&logo=microsoft-office&logoColor=white">
+</div>
+
 <!--
 **UrielleMohou/UrielleMohou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -54,3 +60,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</div>
