@@ -13,12 +13,12 @@
 ## <h2 align="center"> 🛠️ Skills </h2>
 ### <p align="center"> Programming Languages </p>
 
-<div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
-  <img src="https://img.shields.io/badge/Python-blue" width="120"/>
-  <img src="https://img.shields.io/badge/R-blue" width="120"/>
-  <img src="https://img.shields.io/badge/C++-orange" width="120"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow" width="120"/>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-blue" width="140"/>
+  <img src="https://img.shields.io/badge/R-blue" width="140"/>
+  <img src="https://img.shields.io/badge/C++-orange" width="140"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow" width="140"/>
+</p>
 
 
 - Machine Learning
