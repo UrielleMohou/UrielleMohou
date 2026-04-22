@@ -1,4 +1,4 @@
-# 👋Urielle MOHOU
+# 👋Hi, I am Urielle MOHOU
 
 ### Engineering Student @ Centrale Nantes | Master in Applied Mathematics and Data Science @ CentraleSupélec
 Passionate about Quantitative Finance, Data Science, and Machine Learning
@@ -6,8 +6,11 @@ Passionate about Quantitative Finance, Data Science, and Machine Learning
 ## About Me
 Passionate about Quantitative Finance, Data Science, and Machine Learning
 
-## Skills
-- Python, R, C++
+## 🛠️ Skills
+![Python](https://img.shields.io/badge/Python-blue)
+![R](https://img.shields.io/badge/C++-blue)
+![C++](https://img.shields.io/badge/C++-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 - Machine Learning
 
 <!--
