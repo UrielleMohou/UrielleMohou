@@ -15,10 +15,10 @@
 ### <p align="center"> Programming Languages </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-blue" width="140"/>
-  <img src="https://img.shields.io/badge/R-blue" width="140"/>
-  <img src="https://img.shields.io/badge/C++-orange" width="140"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow" width="140"/>
+  ![Python](https://img.shields.io/badge/Python-blue)
+  ![R](https://img.shields.io/badge/R-blue)
+  ![C++](https://img.shields.io/badge/C++-blue)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 </p>
 
 
