@@ -1,4 +1,14 @@
-## Hi there 👋
+# Urielle MOHOU
+
+Engineering Student @ Centrale Nantes | Master in Applied Mathematics and Data Science @ CentraleSupélec
+### Passionate about Quantitative Finance, Data Science, and Machine Learning
+
+## About Me
+Passionate about Quantitative Finance, Data Science, and Machine Learning
+
+## Skills
+- Python, R, C++
+- Machine Learning
 
 <!--
 **UrielleMohou/UrielleMohou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
