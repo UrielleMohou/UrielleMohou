@@ -1,4 +1,4 @@
-#<h1 align="center">👋Hi, I am Urielle MOHOU </h1>
+# <h1 align="center">👋Hi, I am Urielle MOHOU </h1>
 
 ### <p align="center"> Engineering Student @ Centrale Nantes | Master in Applied Mathematics and Data Science @ CentraleSupélec </p>
 
@@ -6,10 +6,10 @@
   Passionate about Quantitative Finance, Data Science, and Machine Learning
 </h4>
 
-##<h2 align="center"> About Me </h2>
+## <h2 align="center"> About Me </h2>
 I’m a final-year engineering student at Centrale Nantes and CentraleSupélec, specializing in applied mathematics, data science, and machine learning. I’m interested in quantitative finance and computer science, particularly in data-driven modeling and its applications. I try to approach each project with seriousness, curiosity, and a willingness to learn quickly.
 
-##<h2 align="center"> 🛠️ Skills </h2>
+## <h2 align="center"> 🛠️ Skills </h2>
 ### Programming Languages
 
 
