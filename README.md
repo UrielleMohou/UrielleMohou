@@ -1,18 +1,18 @@
 <div style="text-align: justify;">
   
-# <h1 align="center">👋Hi, I am Urielle MOHOU </h1>
+# <h1>👋Hi, I am Urielle MOHOU </h1>
 
 ### <p align="center"> Engineering Student @ Centrale Nantes | Master in Applied Mathematics and Data Science @ CentraleSupélec </p>
 
-<h4 align="center">
+<h4>
   Passionate about Quantitative Finance, Data Science, and Machine Learning
 </h4>
 
 
-<h2 align="center"> About Me </h2>
-<p align="center"> I’m a final-year engineering student at CentraleSupélec, specializing in applied mathematics, data science, and machine learning. I’m interested in quantitative finance and computer science, particularly in data-driven modeling and its applications. I try to approach each project with seriousness, curiosity, and a willingness to learn quickly.</p>
+<h2> About Me </h2>
+<p > I’m a final-year engineering student at CentraleSupélec, specializing in applied mathematics, data science, and machine learning. I’m interested in quantitative finance and computer science, particularly in data-driven modeling and its applications. I try to approach each project with seriousness, curiosity, and a willingness to learn quickly.</p>
 
-<h2 align="center"> 🛠️ Skills </h2>
+<h2 > 🛠️ Skills </h2>
 
 ### Machine Learning, Deep Learning & Statistics:
 <div>
@@ -57,7 +57,7 @@ These skills give me a solid foundation for roles in quant finance, data science
 
 Feel free to reach out for any collaboration or professional opportunity. I am currently seeking an international internship between May 2027 and November 2027 within quantitative finance, data-driven industries, or technology-focused organizations. I am eager to apply my analytical and problem-solving skills to real-world challenges.
 
-I would be glad to connect and explore potential opportunities together. 🤝
+I would be glad to connect and explore potential opportunities together. 
 <!--
 **UrielleMohou/UrielleMohou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
